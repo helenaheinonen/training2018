@@ -1,0 +1,14 @@
+communicate between 2 computers in pig latin
+
+
+pig latin:
+  converts english to pig latin
+  take input of text:
+    cuts off first letter and puts it at the end plus adds "ay"
+    if starts with a vowel, adds "way" at end
+
+
+communication:
+  takes input of one computer, turns into pig latin, sends to other computer
+  other computer sends message back
+  only 1 "text" per computer
